@@ -5,8 +5,13 @@
     <title>Samantha's Website</title>
     <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
+  <!-- <script src="https://www.w3schools.com/lib/w3.js"></script> -->
   <body>
     <h1>Samantha's Website</h1>
-    <link rel="blog-post" type="text/html" href="module_1_been_there_done_that.html"/>
+    {% include_relative module_1_been_there_done_that.html %}
+    <!-- <div w3-include-html="module_1_been_there_done_that.html"></div> -->
+    <!-- <script>
+    w3.includeHTML();
+    </script> -->
   </body>
 </html>
