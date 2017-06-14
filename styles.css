@@ -1,21 +1,22 @@
 body {
+	background-image: url("https://photos.google.com/photo/AF1QipMNNprcPmSiHAR5jNfbw9IoRYDfUDz1aswwm9Fo");
 	font-family: sans-serif;
-	color: #2f2f2f;
-	background-color: #8A8D91;
+	background-color: #000000;
 	}
 
 h1 {
 	text-align: center;
-	font-family: sans-serif;
-  color: #734B5E
+  color: #078777;
   }
 
 h2{
-	font-family: sans-serif;
-  color: #C4F1BE
+  color: #C4F1BE;
   }
 
 h5 {
-	font-family: sans-serif;
 	color: #C4F1BE;
 	}
+
+div{
+	background-color: rgb(138, 141, 145);
+  }
