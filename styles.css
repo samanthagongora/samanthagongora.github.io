@@ -1,13 +1,21 @@
 body {
-	font: sans-serif;
-	color: #CBEAA6;
-	background-color: #3D0B37;
+	font-family: sans-serif;
+	color: #2f2f2f;
+	background-color: #8A8D91;
 	}
-p {
-	margin-top: 0;
+
+h1 {
 	text-align: center;
-	}
-h3 {
-	font: italic sans-serif;
-	color: #CBEAA6;
+	font-family: sans-serif;
+  color: #734B5E
+  }
+
+h2{
+	font-family: sans-serif;
+  color: #C4F1BE
+  }
+
+h5 {
+	font-family: sans-serif;
+	color: #C4F1BE;
 	}
