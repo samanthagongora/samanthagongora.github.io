@@ -1,13 +1,11 @@
 body {
 	font: sans-serif;
 	color: #CBEAA6;
-	background: #3D0B37 no-repeat bottom right;
-	margin: 0;
-	padding: 0;
+	background-color: #3D0B37 no-repeat bottom right;
 	}
 p {
 	margin-top: 0;
-	text-align: justify;
+	text-align: center;
 	}
 h3 {
 	font: italic sans-serif;
