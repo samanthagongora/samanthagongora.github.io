@@ -1,12 +1,11 @@
 body {
-	background-image: url("https://photos.google.com/photo/AF1QipMNNprcPmSiHAR5jNfbw9IoRYDfUDz1aswwm9Fo");
 	font-family: sans-serif;
-	background-color: #000000;
+  background: linear-gradient(to bottom, #A1CDA8, #596F62, #210124);
 	}
 
 h1 {
 	text-align: center;
-  color: #078777;
+  color: #494850;
   }
 
 h2{
