@@ -1,47 +1,8 @@
-body{
-	background-image: url('LightroomEdit-01267.jpg');
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-	background-color: rgba(70, 83, 98, 1);
-	font-family: sans-serif;
-	}
-
-h1{
-	text-align: center;
-  color: #BBCEA8;
-	font-weight: lighter;
-  }
-
-h2, h5{
-  color: #82A3A1;
-	font-weight: lighter;
-  }
-
-.button {
-	background-color: rgb(70, 83, 98);
-	color: #82A3A1;
-	padding: 15px 32px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 14px;
-	border-radius: 35px;
+img{
+	max-width: 33%;
+	border-radius: 10px;
 }
 
-p {
-	text-align: justify;
-	margin-left: 20px;
-	margin-right: 20px
+.fab:hover{
+	color: dimgrey;
 }
-
-div{
-	color: #E1CE7A;
-	background-color: rgba(70, 83, 98, .8);
-	text-align: center;
-	padding-top: 1px;
-	padding-bottom: 30px;
-	margin: 10px;
-	border-radius: 35px;
-  }
