@@ -1,3 +1,7 @@
 .fab:hover{
 	color: dimgrey;
 }
+
+a img{
+	width: 60%;
+}
